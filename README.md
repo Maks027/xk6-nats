@@ -31,7 +31,7 @@ go install go.k6.io/xk6/cmd/xk6@latest
 
 2. Build the binary:
 ```shell
-xk6 build --with github.com/ydarias/xk6-nats@latest
+xk6 build --with github.com/Maks027/xk6-nats@latest
 ```
 
 3. Run a test
